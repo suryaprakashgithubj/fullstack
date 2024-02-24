@@ -1,0 +1,31 @@
+.p1
+{
+    margin-left: 54%;
+    padding-top: 50px;
+    font-weight: 800;
+    justify-content: flex;
+    width: 40% ;
+    background-size: contain;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-image: url('/src/assets/images/pr.jpeg');
+} 
+.bg1
+{
+    margin-left: 10%;
+    /* width: % ; */
+    height: 700px;
+    background-repeat: no-repeat;
+    background-image: url('/src/assets/images/pr2.jpg');
+margin-bottom: 15%;
+}
+.q1
+{
+    width: 50%;
+    font-size: 35px;
+    font-family: sans-serif;
+    margin-left: 25px;
+    text-align: center;
+    font-weight: 800;
+    /* justify-content: flex-end; */
+}
